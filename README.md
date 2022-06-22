@@ -68,7 +68,7 @@ $$xyz$$
 ## 逻辑运算
 1. ```等于运算，符号：=，如：$x+y=z$```$x+y=z$
 2. ```大于运算，符号：>，如：$x+y>z$```$x+y>z$
-3. ```小于运算，符号：<，如：$x+y< z$```$x+y<z$
+3. ```小于运算，符号：<，如：$x+y< z$```$x+y< z$
 4. ```大于等于运算，符号：\geq，如：$x+y \geq z$```$x+y \geq z$
 5. ```小于等于运算，符号：\leq，如：$x+y \leq z$```$x+y \leq z$
 6. ```不等于运算，符号：\neq，如：$x+y \neq z$```$x+y \neq z$
@@ -80,53 +80,53 @@ $$xyz$$
 12. ```恒定等于运算，符号：\equiv，如：$x+y \equiv z$```$x+y \equiv z$
 
 ## 集合运算
-1. ```属于运算，符号：\in，如：$x \in y$```
-2. ```不属于运算，符号：\notin，如：$x \notin y$```
-3. ```不属于运算，符号：\not\in，如：$x \not\in y$```
-4. ```子集运算，符号：\subset，如：$x \subset y$```
-5. ```子集运算，符号：\supset，如：$x \supset y$```
-6. ```真子集运算，符号：\subseteq，如：$x \subseteq y$```
-7. ```非真子集运算，符号：\subsetneq，如：$x \subsetneq y$```
-8. ```真子集运算，符号：\supseteq，如：$x \supseteq y$```
-9. ```非真子集运算，符号：\supsetneq，如：$x \supsetneq y$```
-10. ```非子集运算，符号：\not\subset，如：$x \not\subset y$```
-11. ```非子集运算，符号：\not\supset，如：$x \not\supset y$```
-12. ```并集运算，符号：\cup，如：$x \cup y$```
-13. ```交集运算，符号：\cap，如：$x \cap y$```
-14. ```差集运算，符号：\setminus，如：$x \setminus y$```
-15. ```同或运算，符号：\bigodot，如：$x \bigodot y$```
-16. ```同与运算，符号：\bigotimes，如：$x \bigotimes y$```
-17. ```实数集合，符号：\mathbb{R}，如：$\mathbb{R}$```
-18. ```自然数集合，符号：\mathbb{Z}，如：$\mathbb{Z}$```
-19. ```空集，符号：\emptyset，如：$\emptyset$```
+1. ```属于运算，符号：\in，如：$x \in y$```$x \in y$
+2. ```不属于运算，符号：\notin，如：$x \notin y$```$x \notin y$
+3. ```不属于运算，符号：\not\in，如：$x \not\in y$```$x \not\in y$
+4. ```子集运算，符号：\subset，如：$x \subset y$```$x \subset y$
+5. ```子集运算，符号：\supset，如：$x \supset y$```$x \supset y$
+6. ```真子集运算，符号：\subseteq，如：$x \subseteq y$```$x \subseteq y$
+7. ```非真子集运算，符号：\subsetneq，如：$x \subsetneq y$```$x \subsetneq y$
+8. ```真子集运算，符号：\supseteq，如：$x \supseteq y$```$x \supseteq y$
+9. ```非真子集运算，符号：\supsetneq，如：$x \supsetneq y$```$x \supsetneq y$
+10. ```非子集运算，符号：\not\subset，如：$x \not\subset y$```$x \not\subset y$
+11. ```非子集运算，符号：\not\supset，如：$x \not\supset y$```$x \not\supset y$
+12. ```并集运算，符号：\cup，如：$x \cup y$```$x \cup y$
+13. ```交集运算，符号：\cap，如：$x \cap y$```$x \cap y$
+14. ```差集运算，符号：\setminus，如：$x \setminus y$```$x \setminus y$
+15. ```同或运算，符号：\bigodot，如：$x \bigodot y$```$x \bigodot y$
+16. ```同与运算，符号：\bigotimes，如：$x \bigotimes y$```x \bigotimes y$
+17. ```实数集合，符号：\mathbb{R}，如：$\mathbb{R}$```\mathbb{R}$
+18. ```自然数集合，符号：\mathbb{Z}，如：$\mathbb{Z}$```$\mathbb{Z}$
+19. ```空集，符号：\emptyset，如：$\emptyset$```$\emptyset$
 
 ## 数学符号
-1. 无穷，符号：\infty，如：$\infty$
-2. 虚数，符号：\imath，如：$\imath$
-3. 虚数，符号：\jmath，如：$\jmath$
-4. 数学符号，符号\hat{a}，如：$\hat{a}$
-5. 数学符号，符号\check{a}，如：$\check{a}$
-6. 数学符号，符号\breve{a}，如：$\breve{a}$
-7. 数学符号，符号\tilde{a}，如：$\tilde{a}$
-8. 数学符号，符号\bar{a}，如：$\bar{a}$
-9. 矢量符号，符号\vec{a}，如：$\vec{a}$
-10. 数学符号，符号\acute{a}，如：$\acute{a}$
-11. 数学符号，符号\grave{a}，如：$\grave{a}$
-12. 数学符号，符号\mathring{a}，如：$\mathring{a}$
-13. 一阶导数符号，符号\dot{a}，如：$\dot{a}$
-14. 二阶导数符号，符号\ddot{a}，如：$\ddot{a}$
-15. 上箭头，符号：\uparrow，如：$\uparrow$
-16. 上箭头，符号：\Uparrow，如：$\Uparrow$
-17. 下箭头，符号：\downarrow，如：$\downarrow$
-18. 下箭头，符号：\Downarrow，如：$\Downarrow$
-19. 左箭头，符号：\leftarrow，如：$\leftarrow$
-20. 左箭头，符号：\Leftarrow，如：$\Leftarrow$
-21. 右箭头，符号：\rightarrow，如：$\rightarrow$
-22. 右箭头，符号：\Rightarrow，如：$\Rightarrow$
-23. 底端对齐的省略号，符号：\ldots，如：$1,2,\ldots,n$
-24. 中线对齐的省略号，符号：\cdots，如：$x_1^2 + x_2^2 + \cdots + x_n^2$
-25. 竖直对齐的省略号，符号：\vdots，如：$\vdots$
-26. 斜对齐的省略号，符号：\ddots，如：$\ddots$
+1. ```无穷，符号：\infty，如：$\infty$```$\infty$
+2. ```虚数，符号：\imath，如：$\imath$```$\imath$
+3. ```虚数，符号：\jmath，如：$\jmath$```$\jmath$
+4. ```数学符号，符号\hat{a}，如：$\hat{a}$```\hat{a}$
+5. ```数学符号，符号\check{a}，如：$\check{a}$```$\check{a}$
+6. ```数学符号，符号\breve{a}，如：$\breve{a}$```$\breve{a}$
+7. ```数学符号，符号\tilde{a}，如：$\tilde{a}$```$\tilde{a}$
+8. ```数学符号，符号\bar{a}，如：$\bar{a}$```$\bar{a}$
+9. ```矢量符号，符号\vec{a}，如：$\vec{a}$```$\vec{a}$
+10. ```数学符号，符号\acute{a}，如：$\acute{a}$```$\acute{a}$
+11. ```数学符号，符号\grave{a}，如：$\grave{a}$```$\grave{a}$
+12. ```数学符号，符号\mathring{a}，如：$\mathring{a}$```$\mathring{a}$
+13. ```一阶导数符号，符号\dot{a}，如：$\dot{a}$```$\dot{a}$
+14. ```二阶导数符号，符号\ddot{a}，如：$\ddot{a}$```$\ddot{a}$
+15. ```上箭头，符号：\uparrow，如：$\uparrow$```$\uparrow$
+16. ```上箭头，符号：\Uparrow，如：$\Uparrow$```\Uparrow$
+17. ```下箭头，符号：\downarrow，如：$\downarrow$```$\downarrow$`
+18. ```下箭头，符号：\Downarrow，如：$\Downarrow$```$\Downarrow$
+19. ```左箭头，符号：\leftarrow，如：$\leftarrow$```$\leftarrow$
+20. ```左箭头，符号：\Leftarrow，如：$\Leftarrow$```$\Leftarrow$
+21. ```右箭头，符号：\rightarrow，如：$\rightarrow$```$\rightarrow$
+22. ```右箭头，符号：\Rightarrow，如：$\Rightarrow$```$\Rightarrow$
+23. ```底端对齐的省略号，符号：\ldots，如：$1,2,\ldots,n$```$1,2,\ldots,n$
+24. ```中线对齐的省略号，符号：\cdots，如：$x_1^2 + x_2^2 + \cdots + x_n^2$```$x_1^2 + x_2^2 + \cdots + x_n^2$
+25. ```直对齐的省略号，符号：\vdots，如：$\vdots$```$\vdots$
+26. ```斜对齐的省略号，符号：\ddots，如：$\ddots$```$\ddots$
 
 ## 希腊字母
 | 字母 | 实现 |  字母 | 实现 |
